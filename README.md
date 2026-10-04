@@ -6,7 +6,7 @@
   \____\___/|_|_|\___|\___|\__|        /_/   \_\___| (_)_/   \_\___|_|  \__,_|\___|\__|___/
 ```
 
-> **Forensic triage script** — collect AI assistant conversation artifacts from a Windows user profile for analysis in [IRFlow Timeline](https://r3nzsec.github.io/irflow-timeline/).
+> **Forensic triage script** — collect AI assistant conversation artifacts from a Windows user profile for forensic analysis in IRFlow Timeline.
 
 ---
 
@@ -125,5 +125,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-> Made for forensic investigators and security researchers.  
-> Part of the [IRFlow Timeline](https://r3nzsec.github.io/irflow-timeline/) toolchain.
+> Made for forensic investigators and security researchers.
