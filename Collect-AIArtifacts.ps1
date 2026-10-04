@@ -81,7 +81,6 @@ function Write-Banner {
     Write-Host ""
     Write-Host "  +------------------------------------------------------+" -ForegroundColor Cyan
     Write-Host "  |   IRFlow Timeline - AI Artifact Collector  v1.0      |" -ForegroundColor Cyan
-    Write-Host "  |   github.com/r3nzsec/irflow-timeline                 |" -ForegroundColor DarkGray
     Write-Host "  +------------------------------------------------------+" -ForegroundColor Cyan
     Write-Host ""
 }
